@@ -65,6 +65,6 @@ def monopoly_with_fourth_tier
       }
     }
   }
-}
+
   
 end
